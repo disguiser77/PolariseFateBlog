@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>http://localhost:1313/</loc>
+            <lastmod>2025-09-18T16:28:39+08:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/learn-hugo/</loc>
+            <lastmod>2025-09-18T16:28:39+08:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/</loc>
+            <lastmod>2025-09-18T16:28:39+08:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/first-post/</loc>
+            <lastmod>2025-09-18T11:41:18+08:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
+  
+</urlset>
