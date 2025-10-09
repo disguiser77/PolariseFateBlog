@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "LXGWWenKai-Regular";
+    src: url("/fonts/LXGWWenKai-Regular.ttf");
+}
+
+html {
+  font-size: 13pt;
+  font-family: "LXGWWenKai-Regular", sans-serif;
+}
